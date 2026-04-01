@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗     ██╗██████╗ ██████╗  █████╗ ██████╗ ██╗   ██╗
-██║     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
-██║     ██║██████╔╝██████╔╝███████║██████╔╝ ╚████╔╝ 
-██║     ██║██╔══██╗██╔══██╗██╔══██║██╔══██╗  ╚██╔╝  
-███████╗██║██████╔╝██║  ██║██║  ██║██║  ██║   ██║   
-╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a2e,100:00d4ff&height=160&section=header&text=LIBRARY%20MANAGEMENT%20SYSTEM&fontSize=42&fontColor=00d4ff&fontAlignY=50&animation=fadeIn&stroke=00d4ff&strokeWidth=1&desc=v2.0%20%E2%80%94%20Built%20in%20C%20%C2%B7%20Runs%20on%20Windows%20%C2%B7%20Zero%20Dependencies&descSize=16&descColor=ffe600&descAlignY=75" width="100%" alt="Library Management System"/>
 
 ### ⚡ MANAGEMENT SYSTEM ⚡
 #### `v2.0` — Built in C · Runs on Windows · Zero Dependencies
